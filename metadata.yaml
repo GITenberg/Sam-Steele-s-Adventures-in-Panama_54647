@@ -1,0 +1,33 @@
+_repo: Sam-Steele-s-Adventures-in-Panama_54647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Staunton, Schuyler
+    - Cooke, John Estes
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sam Steele's Adventures in Panama
+url: http://www.gutenberg.org/ebooks/54647
